@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Rubypgadmin::Application.config.secret_token = '0e203655566ba81f0256028f3d41191d52d0d47177b3091b1ad682f7fbb7fc7a7f8110be322e73d5142b8afd526d7e30526794954568c42793b4476918c35cb8'
+Rubypgadmin::Application.config.secret_token = 'feff553e0f031c8133dc2d6967f2ea27c830cbb4497cb392780edb6e1d9533c27b88ba7c51e8357ce0b43b9bd496b6153c432b2c05404f47e4344b80b1d8c906'
